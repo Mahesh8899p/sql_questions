@@ -35,4 +35,19 @@ Quick reference SQL guides and personal notes for revision and deeper understand
 ---
 
 ## 📁 Repository Structure
+/sql-practice/
+│
+├── basic-queries/
+│ └── select_where_order.sql
+├── joins/
+│ └── inner_vs_outer.sql
+├── groupby_having/
+│ └── group_by_count.sql
+├── subqueries_ctes/
+│ └── filter_with_subquery.sql
+├── projects/
+│ └── chinook_kpi_analysis.sql
+├── notes/
+│ └── sql_cheatsheet.md
+└── README.md
 
